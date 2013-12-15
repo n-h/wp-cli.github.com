@@ -5,6 +5,7 @@ find_php() {
 /Applications/MAMP/bin/php5.3/bin/php
 /Applications/MAMP/bin/php/*/bin/php
 /Applications/xampp/xamppfiles/bin/php
+/opt/php53/bin/php
 /opt/lampp/bin/php
 EOB
 
